@@ -1,7 +1,7 @@
 # Logistics-UPS-shipment-Tracker-API
 
 A Python + Streamlit application that automates bulk UPS shipment tracking using the official UPS REST Tracking API.
-The tool enables operations, logistics, and supply-chain teams to upload an Excel file with tracking numbers, retrieve real-time shipment status via authenticated API calls, and download an enriched Excel file with delivery milestones and exception indicators
+The tool enables logistics and supply-chain teams to upload an Excel file with tracking numbers, retrieve real-time shipment status via authenticated API calls, and download an enriched Excel file with delivery milestones and exception indicators.
 
 **Problem This Solves**
 
