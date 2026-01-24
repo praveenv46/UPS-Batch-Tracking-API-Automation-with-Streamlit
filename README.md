@@ -29,10 +29,12 @@ This project demonstrates how API-driven automation replaces manual tracking wit
 
  Run Streamlit UI > Excel Upload > UPS OAuth Token Service > UPS Tracking REST API > JSON Normalization > Enriched Excel Output
 
+ **To Run Locally**
+
+streamlit run (file_name).py
+
 **Future possibilities**
 
 This can serve as first playbook for other Carrier Integrations using similar strucutres. 
 
-**To Run Locally**
 
-streamlit run (file_name).py
